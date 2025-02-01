@@ -1,6 +1,6 @@
 import unittest
-from brute_force import BruteForceSolution
-from hash_map import HashMapSolution
+from problems.two_sum.brute_force import BruteForceSolution
+from problems.two_sum.hash_map import HashMapSolution
 
 class TestTwoSum(unittest.TestCase):
     def setUp(self):
