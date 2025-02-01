@@ -1,3 +1,4 @@
+"""
 leetcode-practice/
 │── problems/                   # Folder containing all solved problems
 │── tests/                      # Centralized test runner 
@@ -7,3 +8,4 @@ leetcode-practice/
 │── README.md                   # Hi, you are here :)
 │── requirements.txt            # Dependencies 
 │── .gitignore                  # Ignore unnecessary files 
+"""
