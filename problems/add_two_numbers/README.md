@@ -125,4 +125,16 @@ By applying these principles, **your future solutions will be leaner, faster, an
 "
 
 
+```
+Benchmarking First Attempt Solution...
+Input: [2, 4, 3] + [5, 6, 4] | Output: [7, 0, 8] | Time: 0.000025s
+Input: [0] + [0] | Output: [0] | Time: 0.000005s
+Input: [9, 9, 9] + [1] | Output: [0, 0, 0, 1] | Time: 0.000019s
+Input: [1, 8] + [0] | Output: [1, 8] | Time: 0.000004s
 
+
+Benchmarking Optimized Solution...
+Input: [2, 4, 3] + [5, 6, 4] | Output: [7, 0, 8] | Time: 0.000005s
+Input: [0] + [0] | Output: [0] | Time: 0.000002s
+Input: [9, 9, 9] + [1] | Output: [0, 0, 0, 1] | Time: 0.000007s
+Input: [1, 8] + [0] | Output: [1, 8] | Time: 0.000002s ```
